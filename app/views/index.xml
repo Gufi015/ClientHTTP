@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Button id="btnJson">Consultar</Button>
+	</Window>
+</Alloy>
